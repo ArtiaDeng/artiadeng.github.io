@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Future Imperfect</title>
+    <link>https://artiadeng.github.io/</link>
+    <description>Recent content on Hugo Future Imperfect</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 May 2021 21:35:08 +0800</lastBuildDate><atom:link href="https://artiadeng.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MyFirstWorld</title>
+      <link>https://artiadeng.github.io/post/myfirstworld/</link>
+      <pubDate>Fri, 28 May 2021 21:35:08 +0800</pubDate>
+      
+      <guid>https://artiadeng.github.io/post/myfirstworld/</guid>
+      <description>好家伙，今天为了搭个自己的博客。 我算是知道了这个东西是多么“有趣”。 好吧，我再把这个静态网站放到github上去管理， 怎么说呢，这才算是个开始吧，以后慢慢更新，学以致用。 想想自己学了一整天的教程才搭起一个非常简陋的个人博客， 真是欲哭无泪，其实自己都是一个喜欢找靠谱的学长学姐抄作业的人。 自己的东西实在是太少，希望自己会把写博客这个习惯一直坚持下去吧。 加油 ，那个一直在电脑桌前等待并期待着跑出运行结果的Boy. 顺便吐槽一句，CSDN有的博客真的是误人子弟，这个平台的内容也是参差不齐。
+罢了罢了，至少今天对DNS域名解析有了个更深的理解（计网是真的NB）。 还有那该死的电磁场与电磁波，还是老老实实滚去复习。
+下次再见。</description>
+    </item>
+    
+    <item>
+      <title>HelloWorld</title>
+      <link>https://artiadeng.github.io/post/helloworld/</link>
+      <pubDate>Fri, 28 May 2021 21:32:27 +0800</pubDate>
+      
+      <guid>https://artiadeng.github.io/post/helloworld/</guid>
+      <description>搞了这么久终于搞好了，虽然只是个静态的。 菜鸡落泪！！！</description>
+    </item>
+    
+  </channel>
+</rss>
